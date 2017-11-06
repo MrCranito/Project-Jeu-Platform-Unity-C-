@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazy Marble.CSharp.Plugins", "Crazy Marble.CSharp.Plugins.csproj", "{AD439F61-BA34-3B4E-13AB-54A2660BD1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazy Marble.CSharp", "Crazy Marble.CSharp.csproj", "{D7458B8C-E732-1350-ECE3-F9730ED1B9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD439F61-BA34-3B4E-13AB-54A2660BD1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD439F61-BA34-3B4E-13AB-54A2660BD1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD439F61-BA34-3B4E-13AB-54A2660BD1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD439F61-BA34-3B4E-13AB-54A2660BD1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7458B8C-E732-1350-ECE3-F9730ED1B9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7458B8C-E732-1350-ECE3-F9730ED1B9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7458B8C-E732-1350-ECE3-F9730ED1B9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7458B8C-E732-1350-ECE3-F9730ED1B9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
